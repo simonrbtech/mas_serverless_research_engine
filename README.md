@@ -1,6 +1,6 @@
-# Tutorial to build a crewai based multi-agent system with Azure Functions hosting
+# Tutorial to build a Crewai based multi-agent system with Azure Functions hosting
 
-This Python project demonstrates how to use the crewai library to set up a customized multi-agent research tool. Serverless Azure Functions will be used to deploy this engine and let it run in an automated fashion. The detailed tutorial and related blog posts can be found [[here]]. 
+This Python project demonstrates how to use the crewai library to set up a customized multi-agent research tool. Serverless Azure Functions will be used to deploy this engine and let it run in an automated fashion. The detailed tutorial and related blog posts can be found [here](https://simon.richebaecher.org/scalable-agents-tutorial). 
 
 ## Prerequisites
 
