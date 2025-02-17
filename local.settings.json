@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "your_storage_connection_string_here",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "BlobStorageConnection": "your_storage_connection_string_here",
+    "OPENAI_API_KEY": "your_openai_api_key_here",
+    "SERPER_API_KEY": "your_serper_api_key_here"
+  }
+}
