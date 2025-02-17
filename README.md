@@ -51,7 +51,7 @@ This Python project demonstrates how to use the crewai library to set up a custo
     func start
     ```
 
-7. Create a Function App in Azure and deploy the code, for ex. by using Visual Studio Code plugins as described [this tutorial](https://www.youtube.com/watch?v=lpZCwzYVNpA) by John Savill. Remember to stop or decommission the Function App when it is not in use anymore.  
+7. Create a Function App in Azure and deploy the code, for ex. by using Visual Studio Code plugins as described in [this tutorial](https://www.youtube.com/watch?v=lpZCwzYVNpA) by John Savill. Remember to stop or decommission the Function App when it is not in use anymore.  
 
 
 ## License
