@@ -43,7 +43,7 @@ This Python project demonstrates how to use the crewai library to set up a custo
     pip install -r requirements.txt
     ```
 
-5. Set up an Azure Blob Storage and insert your storage connection string, your OpenAI API key and Serper API key to the local.settings.json as described (here)[http://simon.richebaecher.org/serverless-orchestration-context].
+5. Set up an Azure Blob Storage and insert your storage connection string, your OpenAI API key and Serper API key to the local.settings.json as described [here](http://simon.richebaecher.org/serverless-orchestration-context).
 
 6. Test function app locally:
 
@@ -51,7 +51,7 @@ This Python project demonstrates how to use the crewai library to set up a custo
     func start
     ```
 
-7. Create a Function App in Azure and deploy the code, for ex. by using Visual Studio Code plugins as described (this tutorial)[https://www.youtube.com/watch?v=lpZCwzYVNpA] by John Savill. Remember to stop or decommission the Function App when it is not in use anymore.  
+7. Create a Function App in Azure and deploy the code, for ex. by using Visual Studio Code plugins as described [this tutorial](https://www.youtube.com/watch?v=lpZCwzYVNpA) by John Savill. Remember to stop or decommission the Function App when it is not in use anymore.  
 
 
 ## License
